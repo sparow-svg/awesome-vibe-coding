@@ -163,6 +163,7 @@
 
 > 本节按时间倒序显示项目，最新条目在顶部。
 
+- [2026 年 AI 提示词使用现状报告 | TopFreePrompts](https://topfreeprompts.com/prompts/insights/state-of-ai-prompting-2026) - 关于提示词需求、AI 工具搜索份额以及增长最快的提示词用例的年度报告。
 - [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003) - How GenAI-assisted changes triggered production outages.
 - [The State of Vibe Coding: A 2026 Strategic Blueprint | Keywords Studios](https://www.keywordsstudios.com/en/about-us/news-events/news/the-state-of-vibe-coding-a-2026-strategic-blueprint/)
 - [How Vibe Coding Is Killing Open Source | Hackaday](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)

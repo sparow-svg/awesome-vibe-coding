@@ -163,6 +163,7 @@
 
 > 최신 항목이 위쪽에 나타나는 역순 정렬입니다.
 
+- [State of AI Prompting: 2026 | TopFreePrompts](https://topfreeprompts.com/prompts/insights/state-of-ai-prompting-2026) - 프롬프트 수요, AI 도구별 검색 점유율, 빠르게 성장하는 프롬프트 사용 사례를 다루는 연례 보고서.
 - [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003) - GenAI 지원 변경이 프로덕션 장애를 유발한 사례.
 - [The State of Vibe Coding: A 2026 Strategic Blueprint | Keywords Studios](https://www.keywordsstudios.com/en/about-us/news-events/news/the-state-of-vibe-coding-a-2026-strategic-blueprint/)
 - [How Vibe Coding Is Killing Open Source | Hackaday](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
