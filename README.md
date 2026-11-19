@@ -163,6 +163,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [State of AI Prompting: 2026 | TopFreePrompts](https://topfreeprompts.com/prompts/insights/state-of-ai-prompting-2026) - Annual report on prompt demand, AI tool search share, and the fastest-growing prompt use cases.
 - [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003) - How GenAI-assisted changes triggered production outages.
 - [The State of Vibe Coding: A 2026 Strategic Blueprint | Keywords Studios](https://www.keywordsstudios.com/en/about-us/news-events/news/the-state-of-vibe-coding-a-2026-strategic-blueprint/)
 - [How Vibe Coding Is Killing Open Source | Hackaday](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
